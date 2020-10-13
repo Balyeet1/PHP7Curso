@@ -6,4 +6,6 @@ $nome = "Hcode";
 
 var_dump($nome);
 
+echo "hello"
+
 ?>
